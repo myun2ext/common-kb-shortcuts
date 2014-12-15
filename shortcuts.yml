@@ -3,4 +3,10 @@ Copy: Ctrl+C
 Paste: Ctrl+V
 Cut: Ctrl+X
 Find: Ctrl+F
-Select All: Ctrl+A
+Select-All: Ctrl+A
+
+New: Ctrl+N
+Save: Ctrl+S
+Close: Ctrl+W
+Quit,Exit,Terminate: Ctrl+Q
+Print: Ctrl+P
